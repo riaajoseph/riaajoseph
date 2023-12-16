@@ -1,8 +1,10 @@
+<h1 align="center">Hi 👋, I'm Ria Joseph</h1>
+
 # 💫 About Me:
 ☍ Pursuing Computer Science and Engineering <br>☍ Currently exploring Web Development and Cybersecurity<br>☍ I love learning all things tech! 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/riajoseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riajoseph" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/riajoseph2713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="riajoseph2713" height="30" width="40" /></a>
