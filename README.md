@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me:
-☍ Pursuing Computer Science and Engineering <br>☍ Currently exploring Web Development and Cybersecurity<br>☍ I love learning all things tech! 
+☍ Pursuing Computer Science and Engineering <br>☍ Currently exploring Web Development and Machine Learning<br>☍ I love learning all things tech! 
 <img align="right" alt="Coding" width="300" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 # 🌐 Socials:
